@@ -1,1 +1,1 @@
-var array=[morning:"Good Morning",evening:"Good Evening"];
+var array=["Good Morning","Good Evening","Hello","Hi","Hi there","Good Afternoon"];
